@@ -20,7 +20,7 @@
       <a href="#">Database</a>
       <div class="dropdown-content">
         <a href="/database/ferrari/ferrari-brand.php">Ferrari</a>
-        <a href="/database/kia/kia-brand.php">Kia</a>
+        <a href="/brands/kia.php">Kia</a>
         <a href="/brands/mitsubishi.php">Mitsubishi</a>
         <a href="/brands/zeekr.php">Zeekr</a>
       </div>

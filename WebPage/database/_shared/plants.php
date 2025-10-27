@@ -1,5 +1,12 @@
 <?php
 return [
+    // Algeria
+        // Kia
+    'gloviz' => [
+        'name' => 'GLOVIZ Plant, Oran, Algeria',
+        'flag' => '<span class="fi fi-dz flag-medium"></span>',
+    ],
+
     // Bangladesh
         // Mitsubishi
     'rancon-auto' => [
@@ -15,6 +22,12 @@ return [
     ],
 
     // China
+        // Kia
+    'yancheng' => [
+        'name' => 'Yancheng Plant, Yancheng, China',
+        'flag' => '<span class="fi fi-cn flag-medium"></span>',
+    ],
+
         // Mitsubishi
     'changsha' => [
         'name' => 'Changsha Plant, Changsha, China',
@@ -64,10 +77,24 @@ return [
     ],
 
     // Malaysia
+        // Kia
+    // Todo look what to do as this plant now manufacturers Stellantis vehicles.
+    'gurun' => [
+        'name' => 'Gurun Plant, Gurun, Malaysia',
+        'flag' => '<span class="fi fi-my flag-medium"></span>',
+    ],
+
         // Mitsubishi
     'hicom' => [
         'name' => 'HICOM Plant, Pekan, Malaysia',
         'flag' => '<span class="fi fi-my flag-medium"></span>',
+    ],
+
+    // Mexico
+        // Kia
+    'pesqueria' => [
+        'name' => 'Pesquería Plant, Pesquería, Mexico',
+        'flag' => '<span class="fi fi-mx flag-medium"></span>',
     ],
 
     // Netherlands
@@ -89,6 +116,20 @@ return [
     'cainta' => [
         'name' => 'Cainta Plant, Cainta, Philippines',
         'flag' => '<span class="fi fi-ph flag-medium"></span>',
+    ],
+
+    // Russia
+        // Kia
+    'avtotor' => [
+        'name' => 'Avtotor Plant, Kaliningrad, Russia',
+        'flag' => '<span class="fi fi-ru flag-medium"></span>',
+    ],
+
+    // South Korea
+        // Kia
+    'hwaseong' => [
+        'name' => 'Hwaseong Plant, Hwaseong, South Korea',
+        'flag' => '<span class="fi fi-kr flag-medium"></span>',
     ],
 
     // Taiwan
@@ -124,6 +165,12 @@ return [
     ],
 
     // Vietnam
+        // Kia
+    'chu-lai' => [
+        'name' => 'Chu Lai Plant, Quảng Nam, Vietnam',  
+        'flag' => '<span class="fi fi-vn flag-medium"></span>',
+    ],
+
         // Mitsubishi
     'di-an' => [
         'name' => 'Dĩ An Plant, Dĩ An, Vietnam',
