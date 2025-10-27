@@ -1,0 +1,8 @@
+RewriteEngine On
+
+# Serve files and directories normally if they exist
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Rewrite /brand/model → view-model.php?brand=xxx&model=yyy
+RewriteRule ^([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)$ view-model.php?brand=$1&model=$2 [L,QSA]

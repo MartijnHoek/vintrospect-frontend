@@ -1,0 +1,148 @@
+/* General site styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+}
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+}
+nav {
+  background-color: #444;
+  padding: 0.5rem;
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+nav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  display: inline-block;
+  line-height: 1.5rem;
+}
+nav a:hover { background-color: #555; }
+main { padding: 2rem; }
+.dropdown { position: relative; display: inline-block; }
+.dropdown > a { display: inline-block; padding: 0.5rem 1rem; line-height: 1.5rem; }
+.dropdown-content { display: none; position: absolute; background-color: #444; min-width: 160px; z-index: 1; left: 0; }
+.dropdown-content a { color: white; padding: 12px 16px; text-decoration: none; display: block; text-align: left; }
+.dropdown-content a:hover { background-color: #555; }
+.dropdown:hover .dropdown-content { display: block; }
+
+/* Supported Models Page */
+#supported-models {
+  max-width: 900px;
+  margin: 0 auto;
+  background: white;
+  border-radius: 6px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.1);
+}
+#supported-models h2 { margin-bottom: 1rem; }
+#supported-models .search-container { margin-bottom: 1.5rem; position: relative; }
+#supported-models .search-container input[type="text"] {
+  width: 100%;
+  padding: 0.5rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+#supported-models .manufacturer { margin-bottom: 2rem; }
+#supported-models .manufacturer h3 { margin-bottom: 0.5rem; color: #333; }
+#supported-models table { width: 100%; border-collapse: collapse; margin-top: 0.5rem; }
+#supported-models th, #supported-models td { border: 1px solid #ccc; padding: 0.75rem; text-align: center; }
+#supported-models th { background-color: #eee; }
+#supported-models th:first-child, #supported-models td:first-child { text-align: left; }
+#supported-models .clear-btn {
+  position: absolute; right: 10px; top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  font-size: 1.2rem;
+  color: #888;
+  display: none;
+}
+#supported-models .clear-btn:hover { color: #333; }
+
+/* Tooltip */
+#supported-models .tooltip { position: relative; display: inline-block; cursor: default; }
+#supported-models .tooltip .tooltiptext {
+  visibility: hidden; width: 220px; background-color: #333; color: #fff; text-align: center;
+  border-radius: 6px; padding: 8px; position: absolute; z-index: 10;
+  bottom: 125%; left: 50%; margin-left: -110px; opacity: 0;
+  transition: opacity 0.3s; font-size: 0.9rem; line-height: 1.2; pointer-events: none;
+}
+#supported-models .tooltip .tooltiptext::after {
+  content: ""; position: absolute; top: 100%; left: 50%; margin-left: -5px;
+  border-width: 5px; border-style: solid; border-color: #333 transparent transparent transparent;
+}
+#supported-models .tooltip:hover .tooltiptext { visibility: visible; opacity: 1; pointer-events: auto; }
+
+#vin-decode {
+  max-width: 900px;           /* match supported-models width */
+  margin: 4rem auto 2rem auto; /* spacing from nav */
+  background: white;
+  border-radius: 6px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.1);
+  padding: 2rem;
+}
+
+#vin-decode h2 { margin-bottom: 1rem; }
+
+#vin-decode form input[type="text"],
+#vin-decode form button {
+  width: 100%;
+  padding: 0.5rem;
+  font-size: 1rem;
+  border-radius: 4px;
+  margin-top: 0.5rem;
+  box-sizing: border-box;
+}
+
+#vin-decode button {
+  background-color: #333;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-top: 1rem;
+}
+
+#vin-decode button:hover { background-color: #555; }
+
+#vin-decode table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+
+#vin-decode th, #vin-decode td {
+  border: 1px solid #ccc;
+  padding: 0.75rem;
+  text-align: center;
+}
+
+#vin-decode th {
+  background-color: #eee;
+}
+
+#vin-decode th:first-child,
+#vin-decode td:first-child {
+  text-align: left;
+}
+
+#contact-us {
+  max-width: 900px;
+  margin: 0 auto;
+  background: white;
+  border-radius: 6px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.1);
+}
+
+.flag-medium {
+    font-size: 1em; /* Adjust size */
+    vertical-align: middle; /* Optional: aligns with text */
+}
