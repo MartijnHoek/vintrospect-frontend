@@ -7,132 +7,167 @@
 
 <url>
   <loc>https://vintrospect.com/</loc>
-  <lastmod>2025-10-23T13:16:47+00:00</lastmod>
+  <lastmod>2025-10-27T15:56:32+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://vintrospect.com/index.php</loc>
-  <lastmod>2025-10-23T13:16:47+00:00</lastmod>
+  <lastmod>2025-10-27T15:56:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://vintrospect.com/database/ferrari/ferrari-brand.php</loc>
-  <lastmod>2025-10-23T13:16:47+00:00</lastmod>
+  <lastmod>2025-10-27T15:56:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://vintrospect.com/database/kia/kia-brand.php</loc>
-  <lastmod>2025-10-23T13:16:47+00:00</lastmod>
+  <loc>https://vintrospect.com/brands/kia.php</loc>
+  <lastmod>2025-10-27T15:56:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://vintrospect.com/brands/mitsubishi.php</loc>
-  <lastmod>2025-10-23T13:16:47+00:00</lastmod>
+  <lastmod>2025-10-27T15:56:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://vintrospect.com/brands/zeekr.php</loc>
-  <lastmod>2025-10-23T13:16:47+00:00</lastmod>
+  <lastmod>2025-10-27T15:56:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://vintrospect.com/vin-decode.php</loc>
-  <lastmod>2025-10-23T13:16:47+00:00</lastmod>
+  <lastmod>2025-10-27T15:56:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://vintrospect.com/supported-models.php</loc>
-  <lastmod>2025-10-23T13:16:47+00:00</lastmod>
+  <lastmod>2025-10-27T15:56:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://vintrospect.com/latest-news.php</loc>
-  <lastmod>2025-10-23T13:16:47+00:00</lastmod>
+  <lastmod>2025-10-27T15:56:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://vintrospect.com/changelog.php</loc>
-  <lastmod>2025-10-23T13:16:47+00:00</lastmod>
+  <lastmod>2025-10-27T15:56:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://vintrospect.com/contact-us.php</loc>
-  <lastmod>2025-10-23T13:16:47+00:00</lastmod>
+  <lastmod>2025-10-27T15:56:32+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
+  <loc>https://vintrospect.com/kia/forte-bd</loc>
+  <lastmod>2025-10-27T15:56:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vintrospect.com/kia/forte-yd</loc>
+  <lastmod>2025-10-27T15:56:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vintrospect.com/kia/k5-dl3</loc>
+  <lastmod>2025-10-27T15:56:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vintrospect.com/kia/picanto-ja</loc>
+  <lastmod>2025-10-27T15:56:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vintrospect.com/kia/picanto-sa</loc>
+  <lastmod>2025-10-27T15:56:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vintrospect.com/kia/picanto-ta</loc>
+  <lastmod>2025-10-27T15:56:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vintrospect.com/kia/stinger</loc>
+  <lastmod>2025-10-27T15:56:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
   <loc>https://vintrospect.com/mitsubishi/3000gt</loc>
-  <lastmod>2025-10-23T13:16:47+00:00</lastmod>
+  <lastmod>2025-10-27T15:56:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://vintrospect.com/mitsubishi/carisma</loc>
-  <lastmod>2025-10-23T13:16:47+00:00</lastmod>
+  <lastmod>2025-10-27T15:56:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://vintrospect.com/mitsubishi/colt-z30</loc>
-  <lastmod>2025-10-23T13:16:47+00:00</lastmod>
+  <lastmod>2025-10-27T15:56:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://vintrospect.com/mitsubishi/eclipse-cross</loc>
-  <lastmod>2025-10-23T13:16:47+00:00</lastmod>
+  <lastmod>2025-10-27T15:56:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://vintrospect.com/mitsubishi/eclipse-d31a</loc>
-  <lastmod>2025-10-23T13:16:47+00:00</lastmod>
+  <lastmod>2025-10-27T15:56:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://vintrospect.com/mitsubishi/eclipse-d52a</loc>
-  <lastmod>2025-10-23T13:16:47+00:00</lastmod>
+  <lastmod>2025-10-27T15:56:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://vintrospect.com/mitsubishi/galant-e30</loc>
-  <lastmod>2025-10-23T13:16:47+00:00</lastmod>
+  <lastmod>2025-10-27T15:56:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://vintrospect.com/mitsubishi/galant-e50</loc>
-  <lastmod>2025-10-23T13:16:47+00:00</lastmod>
+  <lastmod>2025-10-27T15:56:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://vintrospect.com/mitsubishi/galant-ea</loc>
-  <lastmod>2025-10-23T13:16:47+00:00</lastmod>
+  <lastmod>2025-10-27T15:56:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://vintrospect.com/mitsubishi/i-miev</loc>
-  <lastmod>2025-10-23T13:16:47+00:00</lastmod>
+  <lastmod>2025-10-27T15:56:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://vintrospect.com/mitsubishi/starion</loc>
-  <lastmod>2025-10-23T13:16:47+00:00</lastmod>
+  <lastmod>2025-10-27T15:56:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://vintrospect.com/mitsubishi/xpander</loc>
-  <lastmod>2025-10-23T13:16:47+00:00</lastmod>
+  <lastmod>2025-10-27T15:56:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://vintrospect.com/zeekr/001</loc>
-  <lastmod>2025-10-23T13:16:47+00:00</lastmod>
+  <lastmod>2025-10-27T15:56:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://vintrospect.com/zeekr/009</loc>
-  <lastmod>2025-10-23T13:16:47+00:00</lastmod>
+  <lastmod>2025-10-27T15:56:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://vintrospect.com/zeekr/x</loc>
-  <lastmod>2025-10-23T13:16:47+00:00</lastmod>
+  <lastmod>2025-10-27T15:56:32+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
