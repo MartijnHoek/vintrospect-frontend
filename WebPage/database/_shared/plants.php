@@ -76,6 +76,13 @@ return [
         'flag' => '<span class="fi fi-jp flag-medium"></span>',
     ],
 
+    // Kazakhstan
+        // Kia
+    'asav' => [
+        'name' => 'ASAV Plant, Ust-Kamenogorsk, Kazakhstan',
+        'flag' => '<span class="fi fi-kz flag-medium"></span>',
+    ],
+
     // Malaysia
         // Kia
     // Todo look what to do as this plant now manufacturers Stellantis vehicles.
@@ -111,6 +118,13 @@ return [
         'flag' => '<span class="fi fi-nz flag-medium"></span>',
     ],
 
+    // Pakistan
+        // Kia
+    'lucky-motor-corporation' => [
+        'name' => 'Lucky Motor Corporation Plant, Karachi, Pakistan',
+        'flag' => '<span class="fi fi-pk flag-medium"></span>',
+    ],
+
     // Phillipines
         // Mitsubishi
     'cainta' => [
@@ -127,8 +141,16 @@ return [
 
     // South Korea
         // Kia
+    'donghee' => [
+        'name' => 'Donghee Plant, Seosan, South Korea',
+        'flag' => '<span class="fi fi-kr flag-medium"></span>',
+    ],
     'hwaseong' => [
         'name' => 'Hwaseong Plant, Hwaseong, South Korea',
+        'flag' => '<span class="fi fi-kr flag-medium"></span>',
+    ],
+    'sohari' => [
+        'name' => 'Sohari Plant, Gwangmyeong, South Korea',
         'flag' => '<span class="fi fi-kr flag-medium"></span>',
     ],
 
@@ -136,6 +158,10 @@ return [
         // Mitsubishi
     'cmc' => [
         'name' => 'CMC Plant, Yangmei, Taiwan',
+        'flag' => '<span class="fi fi-tw flag-medium"></span>',
+    ],
+    'sanyang' => [
+        'name' => 'Sanyang Plant, Hsinchu, Taiwan',
         'flag' => '<span class="fi fi-tw flag-medium"></span>',
     ],
     'taoyuan' => [
