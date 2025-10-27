@@ -151,10 +151,23 @@ return [
     ],
 
     // United States
+        // Kia
+    'west-point' => [
+        'name' => 'West Point Plant, West Point, United States',
+        'flag' => '<span class="fi fi-us flag-medium"></span>',
+    ],
+
         // Mitsubishi - Chrysler Joint Venture
     'diamond-star-motors' => [
         'name' => 'Diamond-Star Motors Plant, Normal, United States',
         'flag' => '<span class="fi fi-us flag-medium"></span>',
+    ],
+
+    // Uzbekistan
+        // Kia
+    'adm-jizzakh' => [
+        'name' => 'ADM Jizzakh Plant, Jizzakh, Uzbekistan',
+        'flag' => '<span class="fi fi-uz flag-medium"></span>',
     ],
 
     // Venezuela
